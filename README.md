@@ -1,7 +1,5 @@
 # Exploratory_Project_ML
 
-•	Data Analysis and Predictive Modelling of Student Performance
-
 o	Conducted exploratory data analysis using Python (Pandas, NumPy, matplotlib).
 
 o	Applied hypothesis testing to identify statistically significant factors affecting performance.
